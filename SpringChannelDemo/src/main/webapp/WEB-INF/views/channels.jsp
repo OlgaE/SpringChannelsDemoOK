@@ -4,14 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome page</title>
+<title>Another example</title>
 </head>
 <body>
-	<h2>Hello))</h2>
-	<h3>http://localhost:8080/SpringMVC4/</h3>
-	<h4><a href="hellopage.htm">hellopage.htm</a></h4>
-	<br>
-	<h4><a href="to-channels-page">Testing channels:</a></h4>
-	
+	<h3> Hello from hellopage) </h3>
 </body>
 </html>
